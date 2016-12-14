@@ -4,11 +4,10 @@ create a character sprite sheet for rpg maker MV based on a definition file.
 **********************************************
 INSTANT SPRITE SHEET CREATOR for RPG MAKER MV
 **********************************************
-Version 0.1
 
-# DOWNLOAD LATEST VERSION
+*******Download Latest Version*******
 
-http://www.mediafire.com/file/49kjbtqu6dp02yi/spritesheetcreator.rar
+Version 0.1: http://www.mediafire.com/file/49kjbtqu6dp02yi/spritesheetcreator.rar
 
 *******Description*******
 
