@@ -9,6 +9,8 @@ INSTANT SPRITE SHEET CREATOR for RPG MAKER MV
 
 Version 0.1: http://www.mediafire.com/file/49kjbtqu6dp02yi/spritesheetcreator.rar
 
+*Mac OSX Users: Download https://github.com/creamcast/spritesheetcreator-rpgmakermv/blob/master/spritesheetcreator-macosx then drop it in the same folder as map.txt, then run it through the terminal using ./spritesheetcreator-macosx )
+
 *******Description*******
 
 This program will instantly create a sprite sheet from seperate sprites based on the variables in definition file "map.txt".
