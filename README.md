@@ -6,7 +6,8 @@ INSTANT SPRITE SHEET CREATOR for RPG MAKER MV
 **********************************************
 Version 0.1
 
-******DOWNLOAD******
+# DOWNLOAD LATEST VERSION
+
 http://www.mediafire.com/file/49kjbtqu6dp02yi/spritesheetcreator.rar
 
 *******Description*******
