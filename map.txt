@@ -1,0 +1,55 @@
+;start definition of this sheets specs
+;comments must be written on their own line!
+[specs] 
+;currently only sprite width and height can be set
+sprite_w = 48
+sprite_h = 48
+
+;----------------start definition of sprite1------------------
+[sprite1]
+;set the folder of where the sprite images are stored relative to the executable file
+folder = p1
+
+;set to 1 if you need to flip the 'left' sprites
+flip_left = 0
+
+;set to 1 if you need to flip the 'right' sprites
+flip_right = 0 
+
+;In this sub-section set sprite images for front,left,right and back
+;each image should be seperated by a comma. no spaces or tabs
+front = 0.png,1.png,2.png
+left = 12.png,13.png,14.png
+right = 24.png,25.png,26.png
+back = 36.png,37.png,38.png
+;----------------end definition of sprite1------------------
+
+;----------------start definition of sprite2------------------
+[sprite2]
+folder = p2
+flip_left = 0
+flip_right = 1
+front = 3.png,4.png,5.png
+left = 15.png,16.png,17.png
+right = 15.png,16.png,17.png
+back = 39.png,40.png,41.png
+;----------------start definition of sprite2------------------
+
+[sprite3]
+;specify as dummy to skip this sprite
+dummy = 1
+
+[sprite4]
+dummy = 1
+
+[sprite5]
+dummy = 1
+
+[sprite6]
+dummy = 1
+
+[sprite7]
+dummy = 1
+
+[sprite8]
+dummy = 1
