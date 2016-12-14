@@ -6,6 +6,9 @@ INSTANT SPRITE SHEET CREATOR for RPG MAKER MV
 **********************************************
 Version 0.1
 
+******DOWNLOAD******
+http://www.mediafire.com/file/49kjbtqu6dp02yi/spritesheetcreator.rar
+
 *******Description*******
 
 This program will instantly create a sprite sheet from seperate sprites based on the variables in definition file "map.txt".
