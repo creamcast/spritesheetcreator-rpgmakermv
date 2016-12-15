@@ -31,9 +31,10 @@ execute spritesheetcreator.exe and an example spreadsheet will be output as "out
 
 .
 
-. and so on
+. etc..etc..
 
 .
+
 [sprite8]
 
 3)after you have setup the folders and set the variables in the map.txt file, run the executable and hope for the best.
