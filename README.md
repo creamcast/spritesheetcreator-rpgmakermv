@@ -40,15 +40,15 @@ execute spritesheetcreator.exe and an example spreadsheet will be output as "out
 *******List of variables*******
 
 [spec]
-* sprite_w	set the width of the character sprite
-* sprite_h	set the height of the character sprite
+* sprite_w:	set the width of the character sprite
+* sprite_h:	set the height of the character sprite
 
 [sprite1~8]
-* folder		specify the folder of where the sprite images are stored relative to the executable file
-* front		front sprites of the character (total of 3)
-* left		left sprites of the character (total of 3)
-* right		right sprites of the character (total of 3)
-* back		back sprites of the character (total of 3)
-* dummy		set to 1 to skip this section and place empty images as a placeholder
-* flip_left	set to 1 to flip the images set in the 'left' variable
-* flip_right	set to 1 to flip the images set in the 'right' variable
+* folder:		specify the folder of where the sprite images are stored relative to the executable file
+* front:		front sprites of the character (total of 3)
+* left:		left sprites of the character (total of 3)
+* right:		right sprites of the character (total of 3)
+* back:		back sprites of the character (total of 3)
+* dummy:		set to 1 to skip this section and place empty images as a placeholder
+* flip_left:	set to 1 to flip the images set in the 'left' variable
+* flip_right:	set to 1 to flip the images set in the 'right' variable
