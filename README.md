@@ -28,8 +28,11 @@ execute spritesheetcreator.exe and an example spreadsheet will be output as "out
 [sprite1] - settings for the first character sprite (top left)
 
 [sprite2] - settings for the second character sprite (next to sprite1)
+
 .
-.
+
+. and so on
+
 .
 [sprite8]
 
